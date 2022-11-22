@@ -1,5 +1,4 @@
-# hpelitebook840g5-opencore
-Opencore for HP EliteBook 840 G5
+# Opencore for HP EliteBook 840 G5
 
 <img src="images/screenshot.png" width="500">
 
