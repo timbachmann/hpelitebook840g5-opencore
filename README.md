@@ -2,7 +2,9 @@
 
 <img src="images/screenshot.png" width="500">
 
-This EFI was created based on [hpelitebook850g5-opencore](https://github.com/kecinzer/hpelitebook850g5-opencore) project and the [OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/).
+This EFI was created based on [hpelitebook850g5-opencore](https://github.com/kecinzer/hpelitebook850g5-opencore) project and the [OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/). 
+
+Thanks to @kecinzer and @acidanthera!
 
 ## Hardware specs
 - Name: HP EliteBook 840 G5
