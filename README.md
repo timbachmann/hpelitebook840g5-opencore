@@ -24,6 +24,7 @@ This EFI was created based on [hpelitebook850g5-opencore](https://github.com/kec
 - All USB Ports
 - Thunderbolt (Using Brydge Stone Pro Thunderbolt 3 Dock with 2 external Displays)
 - Sleep
+- Power Management with Battery Percentage
 - FaceTime, iMessage, AirDrop, Handoff, Continuity Camera
 
 ## Not working
